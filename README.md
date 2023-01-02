@@ -30,6 +30,14 @@ Here are some ideas to get you started:
 <hr>
 :man_technologist: <b>About Me :</b>
 I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m working as a Software Engineer and contributing to backend technologies for building microservices using AWS services.
+
+- :seedling: Exploring Data structures and Cloud technologies.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: <br><br> <a href="https://www.linkedin.com/in/prabhu-palani"><img align=”left” src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="40px"/></a>
 <hr>
 :hammer_and_wrench: <b>Languages and Tools :</b>
 
