@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabhupalani18&style=flat-square&color=blue" alt=""/ align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
@@ -28,7 +29,5 @@ Here are some ideas to get you started:
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=prabhupalani18&style=flat-square&color=blue" alt=""/>
-
 <a href="https://www.buymeacoffee.com/prabhupalani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </div>
