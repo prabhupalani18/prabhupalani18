@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Prabhu
 
 <!--
 **prabhupalani18/prabhupalani18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=prabhupalani18&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=prabhupalani18&style=flat-square&color=blue" alt=""/>
 
 <a href="https://www.buymeacoffee.com/prabhupalani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</div>
