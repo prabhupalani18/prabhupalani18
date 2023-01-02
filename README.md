@@ -39,6 +39,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :mailbox:How to reach me: <br><br> <a href="https://www.linkedin.com/in/prabhu-palani"><img align=”left” src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="40px"/></a>
 <hr>
+
 :hammer_and_wrench: <b>Languages and Tools :</b>
 
 <div>
