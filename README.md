@@ -30,4 +30,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=prabhupalani18&style=flat-square&color=blue" alt=""/>
+
 <a href="https://www.buymeacoffee.com/prabhupalani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
