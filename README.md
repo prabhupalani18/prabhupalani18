@@ -59,6 +59,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <a href="https://www.buymeacoffee.com/prabhupalani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">&nbsp;&nbsp;</a> <br><br>
 
 :fire: <b>My Stats</b> :<br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prabhupalani18&hide_border=true&border_radius=7&border=4371DD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prabhupalani18&theme=dark&hide_border=true&border_radius=7&border=4371DD)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhupalani18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
