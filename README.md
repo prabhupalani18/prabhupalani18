@@ -37,8 +37,14 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: <br><br> <a href="https://www.linkedin.com/in/prabhu-palani"><img align=”left” src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="icon | LinkedIn" width="40px"/></a>
+- :mailbox:How to reach me:
+<p align="left">
+<a href="https://www.linkedin.com/in/prabhu-palani/" target="blank"><img align="center" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="https://www.linkedin.com/in/prabhu-palani/" height="80" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/oxymoron_partner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oxymoron_partner" height="80" width="50" /></a>
+</p>
 <hr>
+
+
 
 :hammer_and_wrench: <b>Languages and Tools :</b>
 
