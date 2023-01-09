@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 <hr>
 :man_technologist: <b>About Me :</b>
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Backend Developer from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to backend technologies for building microservices using AWS services.
 
