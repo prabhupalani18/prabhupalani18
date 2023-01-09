@@ -28,8 +28,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <hr>
-:man_technologist: <b>About Me :</b>
-I am a Backend Developer from India.
+
+### :man_technologist:<b>About Me:</b><br>
+- 💻 I am a Backend Developer from India.
 
 - :telescope: I’m working as a Software Engineer and contributing to backend technologies for building microservices using AWS services.
 
@@ -37,7 +38,7 @@ I am a Backend Developer from India.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me:
+### :mailbox: <b>How to reach me:<b><br>
 <p align="left">
 <a href="https://www.linkedin.com/in/prabhu-palani/" target="blank"><img align="center" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt="https://www.linkedin.com/in/prabhu-palani/" height="80" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/oxymoron_partner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oxymoron_partner" height="80" width="50" /></a>
@@ -46,7 +47,7 @@ I am a Backend Developer from India.
 
 
 
-:hammer_and_wrench: <b>Languages and Tools :</b>
+### :hammer_and_wrench: <b>Languages and Tools :</b>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/>&nbsp;
@@ -64,7 +65,7 @@ I am a Backend Developer from India.
 <h2>Support</h2>
 <a href="https://www.buymeacoffee.com/prabhupalani" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">&nbsp;&nbsp;</a> <br><br>
 
-:fire: <b>My Stats</b> :<br>
+### :fire: <b>My Stats</b> :<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prabhupalani18&theme=dark&hide_border=true&border_radius=7&border=4371DD)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prabhupalani18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
