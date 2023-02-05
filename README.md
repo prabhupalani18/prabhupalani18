@@ -45,8 +45,10 @@ Here are some ideas to get you started:
 </p>
 <hr>
 
-
-
+### 📊: <b> Repositories </b>
+[![Data-structures](https://github-readme-stats.vercel.app/api/pin/?username=prabhupalani18&repo=Data-structures&show_owner=true)](https://github.com/prabhupalani18/Data-structures)
+<hr>
+  
 ### :hammer_and_wrench: <b>Languages and Tools :</b>
 
 <div>
