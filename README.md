@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 I'm Prabhu</h1>
+<h1 align="center">Hi👋 I'm Prabhu Palani</h1>
 
 <!--
 **prabhupalani18/prabhupalani18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
