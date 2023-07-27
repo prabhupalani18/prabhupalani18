@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 <hr>
 
 ### 📊: <b> Repositories </b>
-[![Data-structures](https://github-readme-stats.vercel.app/api/pin/?username=prabhupalani18&repo=Weather-app&show_owner=true)](https://github.com/prabhupalani18/Weather-app)
+[![Weather-app](https://github-readme-stats.vercel.app/api/pin/?username=prabhupalani18&repo=Weather-app&show_owner=true)](https://github.com/prabhupalani18/Weather-app)
+[![Task-manager](https://github-readme-stats.vercel.app/api/pin/?username=prabhupalani18&repo=Task-manager&show_owner=true)](https://github.com/prabhupalani18/Task-manager.git)
 [![Data-structures](https://github-readme-stats.vercel.app/api/pin/?username=prabhupalani18&repo=Data-structures&show_owner=true)](https://github.com/prabhupalani18/Data-structures)
 <hr>
   
